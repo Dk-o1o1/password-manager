@@ -2,8 +2,7 @@
  * ADVANCED PASSWORD MANAGER v2.0
  * Language: C
  * Submitted as Additional Assignment
- * Student Name: Dipin
- * College: [Apna College Name]
+ * Student Name: Dipin Kakkar
  * Course: C Programming
  * Date: March 2026
  */
